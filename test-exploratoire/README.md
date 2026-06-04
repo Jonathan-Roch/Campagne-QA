@@ -29,6 +29,6 @@ Grâce un outil de capture[^1], j'ai rassemblé toutes mes observations faites d
 
 ## 📂​ /images
 
-L'utilisation du même outil de capture [^1] utilisé pour mes gifs, m'a permit d'ajouter certaines annotations nécessaire à une visualisation plus étandue des différents observations faites, recensés dans ce dossier sous un format **PNG**
+L'utilisation du même outil de capture utilisé pour mes gifs, m'a permit d'ajouter certaines annotations nécessaire à une visualisation plus étandue des différents observations faites, recensés dans ce dossier sous un format **PNG**
 
 [^1] : ShareX
