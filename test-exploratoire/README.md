@@ -25,10 +25,24 @@ Cela me permet d'organiser les différentes preuves que je peux référencer dan
 
 ## 📂​ /gif
 
-Grâce un outil de capture[^1], j'ai rassemblé toutes mes observations faites dans ma session exploratoire pour fournir plus de contexte à mon rapport exploratoire qui sont recensés dans ce dossier sous un format **GIF**
+Grâce un outil de capture, j'ai rassemblé toutes mes observations faites dans ma session exploratoire pour fournir plus de contexte à mon rapport exploratoire qui sont recensés dans ce dossier sous un format **GIF**
 
 ## 📂​ /images
 
 L'utilisation du même outil de capture utilisé pour mes gifs, m'a permit d'ajouter certaines annotations nécessaire à une visualisation plus étandue des différents observations faites, recensés dans ce dossier sous un format **PNG**
+
+## 📝​ rapport-exploratoire.docx
+
+> [!NOTE]
+> Pour consulter le fichier rapport-exploratoire depuis github, ouvrer le ficher au format **PDF**
+
+Comprend la synthèse de ma session de test exploratoire, les observations faites sans approfondir l'analyse détaillé qui elle sera ajoutée à une future v2 du projet.
+
+## 📄 rapport-exploratoire.pdf
+
+Document consultable directement depuis github
+    ***Ne nécessite aucun téléchargement***
+
+Outil utilisé pour la capture[^1]
 
 [^1] : ShareX
