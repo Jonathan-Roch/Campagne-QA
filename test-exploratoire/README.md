@@ -1,5 +1,7 @@
 # 📁 Explication du dossier /test-exploratoire
 
+> [!IMPORTANT]
+> Pour comprendre correctement ma démarche exploratoire, il est recommandé de consulter les fichiers dans l’ordre où ils sont présentés. Cet ordre correspond à la progression réelle de ma réflexion et de ma session de test.L'ordre pour suivre ce dossier est exactement égal à l'odre dans lequel chaque dossier écrit
 
 ## 📝 perimetre.md
 
@@ -54,8 +56,3 @@ Ce dossier comprend plusieurs investigations réalisées, décrivant des anomali
 ## 📁 bug-reports
 
 Ce dossier comprend plusieurs bug reports liés à mon rapport exploratoire.
-___
-
-Outil utilisé pour la capture[^1]
-
-[^1] : ShareX

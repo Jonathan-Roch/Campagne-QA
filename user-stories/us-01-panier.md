@@ -12,4 +12,4 @@ Cette user story existe pour permettre aux utilisateurs de contrôler leur panie
 
 ## Lien
 
-[Critères d'acceptation](URL)
+[Critères d'acceptation](/criteres-acceptation/us-01-criteres%20.md)
