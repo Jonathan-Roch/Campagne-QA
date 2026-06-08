@@ -4,7 +4,7 @@
 
 **Pourquoi ce projet ?**
 
-Ayant parcouru le syllabus ISTQB foundation level v4.0, l'idée de mettre en pratique ces connaissances acquises m'est parvenue.
+Ayant parcouru le syllabus ISTQB Foundation Level v4.0, l'idée de mettre en pratique ces connaissances acquises m'est parvenue.
 
 **But de ce projet ?**
 
@@ -23,3 +23,10 @@ ___
 
 Ce dossier contient une user story respactant l'objet de test utilisé elle respecte différents critères (nomenclature, hiérarchisation).
 Le ficher README.md est là pour expliquer brièvement la construction de celui-ci.
+
+___
+
+**/criteres-acceptation**
+
+Ce dossier fait suite à la création de la User Story, il prend comme référence direct ce [fichier](/user-stories/us-01-panier.md).
+Le fichier README.md est là pour expliquer brièvement la construction de celui-ci.
