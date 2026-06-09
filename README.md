@@ -42,3 +42,19 @@ ___
 
 Ce dossier contient mes scénarios de test, ils prennent comme référence les [dossier](/user-stories/), et [dossier](/criteres-acceptation/).
 Qui comprend bien évidemment un fichier README pour la compréhension.
+
+___
+
+**/bug-reports**
+
+> [!WARNING]
+> Ce dossier n'a pas besoin d'être ouvert, il a été crée pour reprendre les artéfacts produits pendant les test exploratoires, et en ajoutant de nouveaux issues de mes tests exécutions.
+
+Il comprends toutes les preuves sous forme de **GIF** ou **PNG**, pour annoter des points ou mettre en valeur des bugs.
+
+___
+
+**/test-execution**
+
+Ce dossier fait suite à mes [scénarios de test](/test-cases/test-cases.pdf) pour les exécuter. Pendant cet exercice, certains artéfacts ont été produit, ils ont été reportés dans ce [dossier](/bug-reports/).
+Un fichier README.md est comprit dedans pour expliquer brièvement ce dossier.
