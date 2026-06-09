@@ -70,12 +70,7 @@ Un fichier README.md est comprit dedans pour expliquer brièvement ce dossier.
 
 ___
 
-
-   d88b d8888b.      d8888b. d8888b.  .d88b.     d88b d88888b  .o88b. d888888b 
-   `8P' 88  `8D      88  `8D 88  `8D .8P  Y8.    `8P' 88'     d8P  Y8 `~~88~~' 
-    88  88oobY'      88oodD' 88oobY' 88    88     88  88ooooo 8P         88    
-    88  88`8b        88~~~   88`8b   88    88     88  88~~~~~ 8b         88    
-db. 88  88 `88.      88      88 `88. `8b  d8' db. 88  88.     Y8b  d8    88    
-Y8888P  88   YD      88      88   YD  `Y88P'  Y8888P  Y88888P  `Y88P'    YP    
-                                                                               
-                                                                               
+ 88888 88""Yb 
+    88 88__dP 
+o.  88 88"Yb  
+"bodP' 88  Yb 
