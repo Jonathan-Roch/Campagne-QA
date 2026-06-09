@@ -15,6 +15,8 @@ Il a pour but d'évaluer mes capacités en autodicate à comprendre les axes de 
 >[!IMPORTANT]
 > Pour comprendre correctement la progression de mon projet, il est recommandé de consulter les dossiers dans l’ordre où ils sont présentés ci‑dessous. Chaque dossier contient un README dédié qui explique son rôle et la manière de l’utiliser.
 
+
+
 ## Explications
 
 **/test-exploratoire**
@@ -58,3 +60,26 @@ ___
 
 Ce dossier fait suite à mes [scénarios de test](/test-cases/test-cases.pdf) pour les exécuter. Pendant cet exercice, certains artéfacts ont été produit, ils ont été reportés dans ce [dossier](/bug-reports/).
 Un fichier README.md est comprit dedans pour expliquer brièvement ce dossier.
+
+___
+
+**/rapport-final**
+
+Ce dossier clôture ma campagne de test en ayant reprit tous mes artéfacts comme base de test et produire une synthèse cohérente avec des attentes spéculatives que peut avoir un client.
+Un fichier README.md est comprit dedans pour expliquer brièvement ce dossier.
+
+___
+
+   ____             _ _                  _ _         ___                          
+  / __ \           | | |                (_) |       |__ \                         
+ | |  | |_   _  ___| | | ___   ___ _   _ _| |_ ___     ) |                        
+ | |  | | | | |/ _ \ | |/ _ \ / __| | | | | __/ _ \   / /                         
+ | |__| | |_| |  __/ | |  __/ \__ \ |_| | | ||  __/  |_|                          
+  \___\_\\__,_|\___|_|_|\___| |___/\__,_|_|\__\___|  (_) _   _               ___  
+     /\        | |                      | | (_)         | | (_)             |__ \ 
+    /  \  _   _| |_ ___  _ __ ___   __ _| |_ _ ___  __ _| |_ _  ___  _ __      ) |
+   / /\ \| | | | __/ _ \| '_ ` _ \ / _` | __| / __|/ _` | __| |/ _ \| '_ \    / / 
+  / ____ \ |_| | || (_) | | | | | | (_| | |_| \__ \ (_| | |_| | (_) | | | |  |_|  
+ /_/    \_\__,_|\__\___/|_| |_| |_|\__,_|\__|_|___/\__,_|\__|_|\___/|_| |_|  (_)  
+                                                                                  
+                                                                                  
