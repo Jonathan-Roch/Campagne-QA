@@ -38,3 +38,7 @@ Le fichier README.md est là pour expliquer brièvement la construction de celui
 
 ___
 
+**/test-cases**
+
+Ce dossier contient mes scénarios de test, ils prennent comme référence les [dossier](/user-stories/), et [dossier](/criteres-acceptation/).
+Qui comprend bien évidemment un fichier README pour la compréhension.
