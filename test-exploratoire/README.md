@@ -47,7 +47,7 @@ Document consultable directement depuis github
 
 ## 📁 analyses-detaillees
 
-Ce dossier met en avant une analyse approfondie de mes observations faites dans mon rapport exploratoire, je l'ai découpé en deux dossier différents ![investigations](/test-exploratoire/analyses-detailles/investigations/) et ![bug-report](/test-exploratoire/analyses-detailles/bug-reports/)
+Ce dossier met en avant une analyse approfondie de mes observations faites dans mon rapport exploratoire, je l'ai découpé en deux dossier différents [investigations](/test-exploratoire/analyses-detailles/investigations/) et [bug-report](/test-exploratoire/analyses-detailles/bug-reports/)
 
 ## 📁 investigations
 
