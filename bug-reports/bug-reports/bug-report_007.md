@@ -26,6 +26,7 @@ Windows 11 / Microsoft EDGE
 ## Expected result
 
 L'onglet panier est visible et consultable
+
 ## Actual result
 
 L'onglet panier n'est pas visible, ni consultable

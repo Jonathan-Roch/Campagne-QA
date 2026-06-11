@@ -34,4 +34,4 @@ Un message d'erreur s'affiche dès le clic sur le bouton
 
 ## Informations
 
-***Voir*****invesigation_001*****pour les captures et l'analyse.***
+***Voir*****investigation_001*****pour les captures et l'analyse.***

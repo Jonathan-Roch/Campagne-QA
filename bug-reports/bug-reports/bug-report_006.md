@@ -25,7 +25,7 @@ Windows 11 / Microsoft EDGE
 
 ## Expected result
 
-Les 3 articles séléctionnés sont ajoutés au panier
+Les 3 articles sélectionnés sont ajoutés au panier
 
 ## Actual result
 

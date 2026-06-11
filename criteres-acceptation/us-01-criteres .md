@@ -26,7 +26,7 @@ L'utilisateur voit le montant total du panier
 
 ### AC-05
 
-Le système doit afficher un montant total correcte par rapport aux modifications apportées
+Le système doit afficher un montant total correct par rapport aux modifications apportées
 
 ### AC-06
 
@@ -38,7 +38,7 @@ L'utilisateur est redirigé vers une page qui suit le processus de paiement en a
 
 ### AC-08
 
-L'utilisateur peut sortir du panier et conserver le panier crée
+L'utilisateur peut sortir du panier et conserver le panier créé
 
 ### AC-09 
 

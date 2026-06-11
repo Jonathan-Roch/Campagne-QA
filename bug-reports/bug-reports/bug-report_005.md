@@ -1,6 +1,6 @@
 ## Title
 
-Non fonction des boutons d'augmentation et de réduction sur la page produit
+Non fonction des boutons d'augmentation et de réduction de quantité sur la page produit
 
 ## Severity
 

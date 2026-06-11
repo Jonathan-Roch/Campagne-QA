@@ -35,4 +35,4 @@ Le prix du montant produit reste à 0
 
 ## Informations
 
-***Voir*****invesigation_002*****pour les captures et l'analyse.***
+***Voir*****investigation_002*****pour les captures et l'analyse.***

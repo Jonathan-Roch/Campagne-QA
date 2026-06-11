@@ -29,9 +29,9 @@ L'article selectionné est ajouté au panier
 
 ## Actual result
 
-L'article selectionné est ajouté au panier.
+L'article selectionné est ajouté au panier
 Un message d'erreur s'affiche dès le clic sur le bouton
 
 ## Informations
 
-***Voir*****invesigation_001*****pour les captures et l'analyse.***
+Voir [investigation_001](/test-exploratoire/analyses-detaillees/investigations/investigation_001.md) pour les captures et l'analyse.
