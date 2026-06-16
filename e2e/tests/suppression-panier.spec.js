@@ -23,4 +23,18 @@ test('Supprimer du panier', async({page}) => {
     // Vérifier que le bon produit et dans le panier
     await expect(page.locator('[data-test="product-title"]')).toContainText(titreProduit)
 
+
+
+    // Scénario de suppression du panier
+
+    // Supprimer le produit du panier
+    await page.locator(" .btn.btn-danger").click()
+
+    // Le produit n'est plus dans le panier
+    await expect(page.locator('[data-test="product-title"]')).not.toBeVisible()
+
+    // Le panier reste visible mais vide
+    await expect(page.locator('[data-test="nav-cart"]')).toBeVisible()
+    await expect(page.locator('[data-test="cart-quantity"]')).not.toBeAttached()
+    
 })

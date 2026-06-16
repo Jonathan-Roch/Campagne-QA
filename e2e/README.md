@@ -49,3 +49,7 @@ npx playwright test --debug
 ```
 npx playwright show-report
 ```
+
+## Informations
+
+Ces tests E2E ont été réalisés en connaissance du manque d'attribut d'élément du DOM, et de leur fiabilités. J'ai voulu rendre ces scénarios le plus proche possible de l'utilisation utilisateur afin qu'une potentielle intégration CI soit respectée.
