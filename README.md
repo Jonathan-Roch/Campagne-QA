@@ -70,6 +70,12 @@ Un fichier README.md est compris dedans pour expliquer brièvement ce dossier.
 
 ___
 
+**/e2e**
+
+Ce dossier met en place mes scénarios de test automatisés en vue d'un apprentissage futur d'un pipeline CI/CD.
+Tous ces tests ont été établis dans le cadre de mon apprentissage de la librairie playwright, mais aussi du langage JavaScript. Cet exercice m'a permis de deceller certaines subtilités quant à l'utilisation des attributs du DOM mais aussi, la polyvalence que peut avoir un scénario E2E.
+
+
  ```
  88888 88""Yb 
     88 88__dP 
